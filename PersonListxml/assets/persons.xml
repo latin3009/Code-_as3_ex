@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<personlist>
+       <persons>
+             <person>
+               <firstName>Anton</firstName>
+               <lastname>Strand</lastname>
+               <birthday>900920</birthday>
+               <gender>Man</gender>            
+          </person>
+          <person>
+               <firstName>Deborah</firstName>
+               <lastname>Botham</lastname>
+               <birthday>710125</birthday>
+               <gender>Woman</gender>            
+           </person>   
+        <person>
+               <firstName>Lorena</firstName>
+               <lastname>leal</lastname>
+               <birthday>900709</birthday>
+               <gender>Woman</gender>            
+        </person>
+       
+       
+       </persons>
+
+
+
+
+
+</personlist>
